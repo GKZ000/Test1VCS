@@ -7,7 +7,7 @@ def generation_list():
 print a generation_list
 """
 
-def printIt()
+def printIt():
     print(generation_list())
     
 def main():
